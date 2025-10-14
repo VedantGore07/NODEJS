@@ -1,0 +1,42 @@
+NODEJS modules
+
+Everything is a modules 
+reusable block of code
+
+types of modules  --> 
+1. core(built-in)  --> fs path http https os require
+
+2. local --> files in yourr project - load with require import
+            export --> module.exports = {greet, display}
+            import --> const g = require('./sample');
+
+            note --> if no ./ 
+                     ./  current folder
+                     ../ parent folder
+
+3. external --> (third party) installed from npm   (express, mongoose)
+
+
+
+cjs --> common js module  --> default module system in node
+
+-- export anything function classes variables objects
+
+-- modules are cached
+    -- node caches a module the first time its loaded
+    -- subsequent require() calls return the same objects
+
+    -- require.cache
+
+
+****************************************************
+
+Core Modules  --> os, fs, http
+
+
+Third party modules --> express, mongoose, chalk
+
+        -- npm init -y
+        -- npm i chalk
+
+
