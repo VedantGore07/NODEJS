@@ -1,0 +1,8 @@
+NODEJS Event handling
+its event driven -- reacts to event
+Event -- action or occurance
+EventEmitter class is used to handle events
+
+
+EventEmitter  --> on and emit
+              --> off removeListeners
