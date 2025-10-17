@@ -1,0 +1,12 @@
+Synchronous file reading and writing  (fs)
+
+Asynchronous file reading and writing  (fs)  --- readFile   r
+
+appendFile   appendFileSync
+
+open
+fs.open(path, flags, mode, callback)
+flags --> r r+ w w+ a a+
+
+readFileSync(synchronous)
+readFile (Asynchronous)
