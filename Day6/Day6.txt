@@ -1,0 +1,25 @@
+
+Error -->  Problem occured in your program during execution
+types of Errors --> 
+   1. Programmatic Errors --> compile time/ syntax errors
+                        --> runtime errors/ logic errors  (for ex - divi by 0)
+
+   2. Operational Errors --> network issues
+                             database connectivity issues
+                             file issues
+
+   3. Functional Errors --> domain errors                          
+
+
+NODEJS --> will hehandle errors in graceful manner
+           nodejs has many error handling techniques
+                --> use Error object   (const err = new Error(" "))
+                --> custom error
+                --> try-catch error
+                --> using callback
+                --> process.on -- register event listeners
+                               -- event name, listener Functional
+                --> promises -- handles async operations
+                
+
+
