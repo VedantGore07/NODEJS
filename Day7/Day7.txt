@@ -1,0 +1,31 @@
+
+questions on error handling
+1. try catch
+2. promises
+3. callback
+4. process.on
+
+
+
+ExpressJS  --> framework for nodejs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
