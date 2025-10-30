@@ -1,0 +1,9 @@
+REST API --> representational state transfer API
+
+HTTP methods --> get put post delete
+
+
+
+
+
+
