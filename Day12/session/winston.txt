@@ -1,0 +1,12 @@
+winston have logging libraries-logging package.
+core functionalities - 
+    log levels --> Error log-0
+                   warn log-1
+                   info-2
+                   http-3
+                   verbose-4
+                   debug-5
+                   silly-6
+
+    Transports-where to send these logging files
+    formating-log entries will like

@@ -1,0 +1,123 @@
+{"level":"error","message":"An error log"}
+{"level":"info","message":"An info log"}
+{"level":"error","message":"An error log"}
+{"level":"info","message":"An info log"}
+{"level":"error","message":"An error log"}
+2025-11-03T13:52:54.795Z, info, An info log
+2025-11-03T13:52:54.798Z, error, An error log
+2025-11-03T13:55:35.810Z, info, An info log
+2025-11-03T13:55:35.813Z, error, An error log
+{"level":"info","message":"An info log"}
+{"level":"error","message":"An error log"}
+{"level":"info","message":"An info log","timestamp":"2025-11-03T13:58:24.429Z"}
+{"level":"error","message":"An error log","timestamp":"2025-11-03T13:58:24.432Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T13:59:46.627Z"}
+{"level":"error","message":"An error log","timestamp":"2025-11-03T13:59:46.630Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T13:59:51.100Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T13:59:51.105Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:01:45.706Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:01:45.710Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:01:47.934Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:01:47.938Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:01:52.105Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:01:52.109Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:17.688Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:19.619Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:25.005Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:34.909Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:02:34.912Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:38.034Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:02:38.037Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:04:05.213Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:04:05.216Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:04:08.624Z"}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:07:57.516Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:08:45.981Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:08:48.380Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:08:58.140Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:09:06.547Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:09:18.520Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:09:23.148Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:09:26.725Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Gateway Timeout',
+  stack: 'Error: 504 Gateway Timeout\n' +
+    '    at Object.<anonymous> (D:\\EDGEVERVE_DATA\\NODE_JS\\NODEJS\\Day12\\session\\win1.js:22:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n' +
+    '    at Object..js (node:internal/modules/cjs/loader:1895:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1465:32)\n' +
+    '    at Function._load (node:internal/modules/cjs/loader:1282:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n' +
+    '    at node:internal/main/run_main_module:36:49',
+  timestamp: '2025-11-03T14:10:31.636Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Gateway Timeout',
+  stack: 'Error: 504 Gateway Timeout\n' +
+    '    at Object.<anonymous> (D:\\EDGEVERVE_DATA\\NODE_JS\\NODEJS\\Day12\\session\\win1.js:22:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1730:14)\n' +
+    '    at Object..js (node:internal/modules/cjs/loader:1895:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1465:32)\n' +
+    '    at Function._load (node:internal/modules/cjs/loader:1282:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)\n' +
+    '    at node:internal/main/run_main_module:36:49',
+  timestamp: '2025-11-03T14:10:59.092Z'
+}
