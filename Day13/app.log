@@ -1,0 +1,50 @@
+{
+  message: 'Validation failed: Username and Email are required',
+  level: 'error',
+  timestamp: '2025-11-04T13:39:08.557Z'
+}
+{
+  message: 'Validation failed: Username and Email are required',
+  level: 'error',
+  timestamp: '2025-11-04T13:41:05.080Z'
+}
+{
+  message: 'Validation failed: Username and Email are required',
+  level: 'error',
+  timestamp: '2025-11-04T13:41:17.494Z'
+}
+{
+  message: 'Validation failed: Username and Email are required',
+  level: 'error',
+  timestamp: '2025-11-04T13:46:09.293Z'
+}
+{
+  message: 'server running at port 3300',
+  level: 'info',
+  timestamp: '2025-11-04T13:48:49.883Z'
+}
+{
+  message: 'Validation failed: Username and Email are required',
+  level: 'error',
+  timestamp: '2025-11-04T13:48:56.648Z'
+}
+{
+  message: 'Validation failed: Username and Email are required',
+  level: 'error',
+  timestamp: '2025-11-04T13:50:21.481Z'
+}
+{
+  message: 'server running at port 3300',
+  level: 'info',
+  timestamp: '2025-11-04T13:52:19.595Z'
+}
+{
+  message: 'User abxd registered successfully',
+  level: 'info',
+  timestamp: '2025-11-04T13:52:23.778Z'
+}
+{
+  message: 'User virat registered successfully',
+  level: 'info',
+  timestamp: '2025-11-04T13:52:31.731Z'
+}
